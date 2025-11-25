@@ -1,0 +1,5 @@
+{
+  "name": "AUDEN Age-Suitability Checker",
+  "description": "A research-based, client-side tool to evaluate social media app safety for children using the AUDEN framework (Affordances, Use, Development, Environment, Norms).",
+  "requestFramePermissions": []
+}
